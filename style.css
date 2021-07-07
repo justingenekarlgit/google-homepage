@@ -1,0 +1,42 @@
+.center {
+  margin: 0;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.search-bar {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+
+}
+
+input {
+  -webkit-border-radius: 5px; //For Safari, etc.
+  -moz-border-radius: 5px; //For Mozilla, etc.
+  border-radius: 5px; //CSS3 Feature
+}
+
+.google-search {
+  margin: 0;
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-120%, -50%);
+}
+
+.feeling-lucky {
+  margin: 0;
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(20%, -50%);
+}
