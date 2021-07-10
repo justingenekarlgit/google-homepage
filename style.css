@@ -1,0 +1,27 @@
+/* fit to page */
+
+.flex {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
+/* main */
+
+/* nav bar */
+
+.nav {
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.leftalign {
+  float: left;
+}
+
+.rightalign {
+  float: right;
+}
