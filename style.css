@@ -20,14 +20,14 @@
 }
 
 input {
+  width: 50vw;
+  max-width: 500px;
   height: 40px;
-  width: 500px;
-  padding: 0px, 40px;
-  border-width: 1pt;
-  border-style: solid;
-  border-color: rgba(201, 202, 201, 0.973);
+  border: 1px solid #e1e1e1;
   border-radius: 50px;
-  margin-bottom: 20px;
+  padding: 0 40px;
+  font-size: initial;
+  margin: 20px;
 }
 
 form {
@@ -44,7 +44,7 @@ input:hover {
   height: 25px;
   display: block;
   margin: auto;
-  transform: translate(900%, -220%);
+  transform: translate(1050%, -215%);
   border: none;
   background: transparent;
   background-image: url(https://www.gstatic.com/images/branding/googlemic/2x/googlemic_color_24dp.png);
@@ -58,7 +58,7 @@ input:hover {
   height: 20px;
   display: block;
   margin: right;
-  transform: translate(100%, -390%);
+  transform: translate(180%, -380%);
   border: none;
   background: transparent;
   background-image: url(https://img.icons8.com/android/24/000000/search.png);
